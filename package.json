@@ -1,6 +1,6 @@
 {
   "name": "azure-iot-device-mqtt",
-  "version": "0.2.0",
+  "version": "0.3.0",
   "description": "MQTT transport for Azure IoT device SDK (v1.1.7) ported for Ruff",
   "author": [
       "Microsoft Corporation",
@@ -21,7 +21,7 @@
   "homepage": "https://github.com/Azure/azure-iot-sdk-node#readme",
   "ruff": {
     "dependencies": {
-      "azure-iot-common": "0.2.0",
+      "azure-iot-common": "0.3.0",
       "azure-iot-device": "0.2.0",
       "mqtt": "0.1.2"
     }
